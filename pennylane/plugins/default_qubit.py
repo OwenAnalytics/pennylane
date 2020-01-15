@@ -293,7 +293,7 @@ class DefaultQubit(QubitDevice):
         'RX': Rotx,
         'RY': Roty,
         'RZ': Rotz,
-        'Rot': Rot3,
+        # 'Rot': Rot3,
         'CRX': CRotx,
         'CRY': CRoty,
         'CRZ': CRotz,
